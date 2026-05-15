@@ -150,6 +150,6 @@ mediconnect/
 ---
 
 ❤️ Author
-Pranay Dhumankhede
+Milan Kumar
 Computer Science Engineering Student
 Full-Stack Developer
